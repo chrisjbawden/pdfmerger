@@ -1,6 +1,6 @@
-<p align="center">
-<h1> PDFMerger </h1>
-</p>
+
+<h1 align="center"> PDFMerger </h1>
+
 
 PDFMerger is a portal .exe which will allow you to combine PDF's without the need to install any additional software and is as simple as drag and drop.
 
