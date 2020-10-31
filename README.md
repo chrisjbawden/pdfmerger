@@ -5,9 +5,13 @@
 PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.
 
 How to use it you ask, well it would easier to show you. 
-<p align="center">
-  <img width="460" height="300" src="mi/recording.mp4">
-</p>
+
+
+<video align="center" width="320" height="240" autoplay loop>
+  <source src="recording.mp4" type="video/mp4" />
+  <source src="recording.ogg" type="video/ogg" />
+  Your browser does not support the video tag.
+</video>
 
 
 ## Change Log
