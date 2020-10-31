@@ -14,6 +14,8 @@ How to use it you ask, well it would easier to show you.
 </video>
 
 
+<iframe src='//gifs.com/embed/pdfmerger-vlVlEX' frameborder='0' scrolling='no' width='960px' height='540px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
 ## Change Log
 
 1.1.2
@@ -21,9 +23,10 @@ Changes -
 * command console output replaced with 
 
 Fixes -
-
+* Removed console output
 
 
 1.1.1
+Changes - 
 Fixes - 
 * Originally the "merged" output would overwright. This has been changed to create a new document with a consecutive identifer (_1, _2 and etc).
