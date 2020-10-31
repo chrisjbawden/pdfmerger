@@ -8,10 +8,10 @@ How to use it you ask, well it would easier to show you.
 
 
 
-<p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="50%"></p>
+<p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="70%"></p>
 
 
-<p align="right">Download now - <a href=https://github.com/chrisjbawden/pdfmerger/blob/main/pdf-merger.exe"><img src="https://j.gifs.com/xnXnpq.gif"  width="200px" heigh="200px"></a></p>
+<p align="right">Download now - <a href=https://github.com/chrisjbawden/pdfmerger/blob/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="150px" heigh="250px"></a></p>
 
 
 ## Change Log
