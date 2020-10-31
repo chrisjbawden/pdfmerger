@@ -8,7 +8,7 @@ How to use it you ask, well it would easier to show you.
 
 
 
-[<img src="https://j.gifs.com/vlVlEX.gif" width="50%">](pdfmerger gif)
+<img align="center" src="https://j.gifs.com/vlVlEX.gif" width="50%">
 
 ## Change Log
 
