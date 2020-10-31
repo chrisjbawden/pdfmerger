@@ -8,8 +8,8 @@ How to use it you ask, well it would easier to show you.
 
 
 <video align="center" width="320" height="240" autoplay loop>
-  <source src="recording.mp4" type="video/mp4" />
-  <source src="recording.ogg" type="video/ogg" />
+  <source src="ti/recording.mp4" type="video/mp4" />
+  <source src="ti/recording.ogg" type="video/ogg" />
   Your browser does not support the video tag.
 </video>
 
