@@ -2,10 +2,13 @@
 
 PDFMerger is a portal .exe which will allow you to combine PDF's without the need to install any additional software and is as simple as drag and drop.
 
-Check out this example
+How to use it you ask, well it would easier to show you. 
+<p align="center">
+  <img width="460" height="300" src="mi/recording.mp4">
+</p>
 
 
-##Change Log - 
+## Change Log
 
 1.1.2
 Changes - 
