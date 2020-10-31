@@ -11,7 +11,8 @@ How to use it you ask, well it would easier to show you.
 
 </br>
 </br>
-<p align="right">Download now - <a href=https://github.com/chrisjbawden/pdfmerger/blob/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" heigh="50px"></a></p>
+<p align="right">Download now<p>
+<p align="right"><a href=https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" heigh="50px"</a></p>
 
 
 ## Change Log
