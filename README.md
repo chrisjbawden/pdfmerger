@@ -7,14 +7,8 @@ PDFMerger is a portal .exe which will allow's you to combine PDF's without the n
 How to use it you ask, well it would easier to show you. 
 
 
-<video text-align="center" width="320" height="240" autoplay loop>
-  <source src="ti/recording.mp4" type="video/mp4" />
-  <source src="ti/recording.ogg" type="video/ogg" />
-  Your browser does not support the video tag.
-</video>
 
-
-[<img src="https://gifs.com/gif/pdfmerger-vlVlEX" width="50%">](pdfmerger gif)
+[<img src="https://j.gifs.com/vlVlEX.gif" width="50%">](pdfmerger gif)
 
 ## Change Log
 
