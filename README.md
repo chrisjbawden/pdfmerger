@@ -14,7 +14,7 @@ How to use it you ask, well it would easier to show you.
 </video>
 
 
-<iframe src='//gifs.com/embed/pdfmerger-vlVlEX' frameborder='0' scrolling='no' width='960px' height='540px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+[<img src="https://gifs.com/gif/pdfmerger-vlVlEX" width="50%">](pdfmerger gif)
 
 ## Change Log
 
