@@ -8,7 +8,8 @@ How to use it you ask, well it would easier to show you.
 
 
 
-<p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="50%"></p
+<p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="50%"></p>
+
 
 ## Change Log
 
