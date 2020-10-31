@@ -5,14 +5,14 @@
 PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.
 
 How to use it you ask, well it would easier to show you. 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 <p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="70%"></p>
 
-&nbsp
-&nbsp
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <p align="right">Download now<p>
 <p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" height="50px" style="padding-right: 10px"</a>&nbsp</p>
 
