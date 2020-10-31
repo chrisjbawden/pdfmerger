@@ -9,9 +9,9 @@ How to use it you ask, well it would easier to show you.
 </br>
 <p align="center"><img src="https://j.gifs.com/vlVlEX.gif" width="70%"></p>
 
-<p padding-top="100px"></p>
+<p margin-top="100px"></p>
 <p align="right">Download now<p>
-<p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" heigh="50px padding-right="20px"</a></p>
+<p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" heigh="50px margin-right="20px"</a></p>
 
 
 ## Change Log
