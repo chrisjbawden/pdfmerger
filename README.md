@@ -4,7 +4,7 @@
 
 PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.
 
-<p text-align="center">How to use it you ask? Well it would easier to show you.</p>
+<p align="center">How to use it you ask? Well it would easier to show you.</p>
 </br>
 </br>
 </br>
@@ -17,7 +17,7 @@ PDFMerger is a portal .exe which will allow's you to combine PDF's without the n
 <p align="right">Download now<p>
 <p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" height="50px" style="padding-right: 10px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<p text-align="center">This .exe is acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
+<p align="center">This .exe is acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
 ## Support systems
 
