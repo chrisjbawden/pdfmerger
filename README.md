@@ -21,8 +21,8 @@ PDFMerger is a portal .exe which will allow's you to combine PDF's without the n
 
 ## Support systems
 
-Windows 10
-Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview.
+<p>Windows 10</p>
+<p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview.</p>
 
 ## Change Log
 
