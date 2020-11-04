@@ -17,18 +17,21 @@ How to use it you ask, well it would easier to show you.
 <p align="right">Download now<p>
 <p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" height="50px" style="padding-right: 10px"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
+This .exe is basically a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">PDFTK</a> utility, creating a simplist user experience. 
+
+##Support systems
+
+Windows 10
+Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview.
 
 ## Change Log
 
 1.1.2
 Changes - 
 * command console output replaced with 
-
-Fixes -
 * Removed console output
 
 
 1.1.1
 Changes - 
-Fixes - 
 * Originally the "merged" output would overwright. This has been changed to create a new document with a consecutive identifer (_1, _2 and etc).
