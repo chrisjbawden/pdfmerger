@@ -28,8 +28,8 @@
 
 1.1.2
 Changes - 
-* command console output replaced with 
-* Removed console output
+* Console output replaced with message box
+* Console output hidden entirely
 
 
 1.1.1
