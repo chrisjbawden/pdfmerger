@@ -2,7 +2,7 @@
 <h1 align="center"> PDFMerger </h1>
 
 
-PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.
+<p align="center">PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.</p>
 
 <p align="center">How to use it you ask? Well it would easier to show you.</p>
 </br>
@@ -14,15 +14,15 @@ PDFMerger is a portal .exe which will allow's you to combine PDF's without the n
 </br>
 </br>
 </br>
-<p align="right">Download now<p>
-<p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="50px" height="50px" style="padding-right: 10px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h3 align="right">Download now<h3>
+<p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="30px" height="30px" style="padding-right: 10px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <p align="center">This .exe is acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
 ## Support systems
 
 <p>Windows 10</p>
-<p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview.</p>
+<p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview. Follow this link for <a href="https://support.apple.com/en-au/HT202945">instructions</a></p>
 
 ## Change Log
 
