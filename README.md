@@ -20,7 +20,8 @@
 
 ## Support systems
 
-<p>Windows 10</p>
+<p>- Windows 10</p>
+<p>- Windows 8</p>
 <p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview. Follow this link for <a href="https://support.apple.com/en-au/HT202945" target="_blank">instructions</a>.</p>
 
 ## Change Log
