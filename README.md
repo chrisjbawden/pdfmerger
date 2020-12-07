@@ -14,8 +14,7 @@
 </br>
 </br>
 </br>
-<h3 align="right">Download now</h3>
-<p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="30px" height="30px" style="padding-right: 10px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="right" colour="blue"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><h3 align="right">Download now</h3></a>
 
 <p align="center">The .exe just acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
