@@ -14,15 +14,15 @@
 </br>
 </br>
 </br>
-<h3 align="right">Download now<h3>
+<h3 align="right">Download now</h3>
 <p align="right"><a href="https://github.com/chrisjbawden/pdfmerger/raw/main/pdf-merger.exe"><img src="https://j.gifs.com/K141gY.gif"  width="30px" height="30px" style="padding-right: 10px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<p align="center">This .exe is acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
+<p align="center">The .exe just acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
 ## Support systems
 
 <p>Windows 10</p>
-<p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview. Follow this link for <a href="https://support.apple.com/en-au/HT202945">instructions</a></p>
+<p>Note: if your looking for a MAC OS compatible option - Apple already has this feature in preview. Follow this link for <a href="https://support.apple.com/en-au/HT202945">instructions</a>.</p>
 
 ## Change Log
 
