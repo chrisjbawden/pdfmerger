@@ -2,7 +2,7 @@
 <p align="center">
   <strong>🔴 Project Status</strong><br><br>
 
-    $${\color{red}Red}$$
+<h1 style="color: red">text</h1>
   <strong>This repository is archived and no longer maintained.</strong><br>
   The code is provided as-is for reference purposes only and may be outdated or incompatible with current dependencies.
 
