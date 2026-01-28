@@ -14,7 +14,7 @@
 
 <p align="center">Its simply acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
-## Support systems
+## Supported systems
 
 <p>- Windows 10</p>
 <p>- Windows 8</p>
