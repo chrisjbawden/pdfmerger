@@ -1,8 +1,8 @@
 
 <p align="center">
   <strong>🔴 Project Status</strong><br><br>
-$\color{Red}\Huge{\textsf{Huge, colored text}}$
-  <strong>This repository is archived and no longer maintained.</strong><br>
+$\color{Red}\Huge{\textsf{<strong>This repository is archived and no longer maintained.</strong><br>}}$
+  
   The code is provided as-is for reference purposes only and may be outdated or incompatible with current dependencies.
 
 </p>
