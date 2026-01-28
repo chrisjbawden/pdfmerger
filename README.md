@@ -1,15 +1,16 @@
 
-## Project Status
-
-This repository is archived and no longer maintained. The code is provided as-is for reference purposes only and may be outdated or incompatible with current dependencies.
-
+<p align="center">
+  <strong>🔴 Project Status</strong><br><br>
+  <strong>This repository is archived and no longer maintained.</strong><br>
+  The code is provided as-is for reference purposes only and may be outdated or incompatible with current dependencies.
+</p>
 
 <h1 align="center"> PDFMerger </h1>
 
 
 <p align="center">PDFMerger is a portal .exe which will allow's you to combine PDF's without the need to install any additional software. You don't even need to open the software, its as simple as dragging and dropping.</p>
 
-<p align="center">The .exe just acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
+<p align="center">Its simply acts as a wrapper for the <a href="https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/" target="_blank">PDFTK</a> utility, creating a simplist user experience.</p>
 
 ## Support systems
 
