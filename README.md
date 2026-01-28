@@ -1,11 +1,11 @@
 
 <p align="center">
   <strong>🔴 Project Status</strong><br><br>
-  <code style="color : red">
+
     $${\color{red}Red}$$
   <strong>This repository is archived and no longer maintained.</strong><br>
   The code is provided as-is for reference purposes only and may be outdated or incompatible with current dependencies.
-  </code>
+
 </p>
 
 <h1 align="center"> PDFMerger </h1>
